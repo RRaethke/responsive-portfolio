@@ -217,7 +217,6 @@ img.reece-pic {
 /* Sidebar */
 .sidebar {
 	float: right;
-	display: inline-block;
 	width: 190px;
 	padding: 40px;
 	margin: 40px 0 0 30px;
