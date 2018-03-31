@@ -4,3 +4,8 @@
 /* 769-980 */
 @import url("980.css") only screen and (max-width: 980px);
 
+/* 641-768 */
+@import url("768.css") only screen and (max-width: 768px);
+
+/* <640 */
+@import url("640.css") only screen and (max-width: 640px);
